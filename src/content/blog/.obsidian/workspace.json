@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9cc26282751b4cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f70674a6f84465",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc161b409627d47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai 辅助学习工程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai 辅助学习工程"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8d7f1f56f31b968",
+    "type": "split",
+    "children": [
+      {
+        "id": "0383e5f7aa8e3437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5267a5af92daae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cabb51ae0a778c7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d75a3bdf34070d35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e7b01708b0a1a099",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb6b5f71104b54c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d6053e9afda774e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ai 辅助学习工程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ai 辅助学习工程 的反向链接列表"
+            }
+          },
+          {
+            "id": "6923a52287a7d98f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ai 辅助学习工程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ai 辅助学习工程 的出链列表"
+            }
+          },
+          {
+            "id": "a07c7ec239ad6da7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ba9a833f3a994efb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c9893bbd8f6ea48c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ai 辅助学习工程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ai 辅助学习工程 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "bc161b409627d47b",
+  "lastOpenFiles": [
+    "hello-astro.md",
+    "ai 辅助学习工程.md"
+  ]
+}
