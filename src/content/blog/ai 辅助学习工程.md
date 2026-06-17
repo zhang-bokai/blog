@@ -1,10 +1,8 @@
 ---
-title: ai 辅助学习工程
-description: ai 辅助学习工程。
+title: "ai 辅助学习工程"
+description: "ai 辅助学习工程。"
 pubDate: 2026-06-17
-tags:
-  - study
-  - agent
+tags: ["study", "agent"]
 ---
 为了恶补工程能力，我决定从头学习一些工程的内容。我想要试试 ai 是否能够帮助加速这个过程。
 

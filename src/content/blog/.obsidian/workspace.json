@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "ai 辅助学习工程"
             }
+          },
+          {
+            "id": "cf4ef91dbbbde7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker 环境.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "docker 环境"
+            }
+          },
+          {
+            "id": "385acfc1f2726fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello-astro.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "hello-astro"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai 辅助学习工程.md",
+                "file": "docker 环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ai 辅助学习工程 的反向链接列表"
+              "title": "docker 环境 的反向链接列表"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai 辅助学习工程.md",
+                "file": "docker 环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ai 辅助学习工程 的出链列表"
+              "title": "docker 环境 的出链列表"
             }
           },
           {
@@ -156,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai 辅助学习工程.md",
+                "file": "docker 环境.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ai 辅助学习工程 的大纲"
+              "title": "docker 环境 的大纲"
             }
           }
         ]
@@ -183,9 +212,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bc161b409627d47b",
+  "active": "385acfc1f2726fca",
   "lastOpenFiles": [
-    "hello-astro.md",
-    "ai 辅助学习工程.md"
+    "服务器容器连接 网页版vscode.md",
+    "docker 环境.md",
+    "ai 辅助学习工程.md",
+    "hello-astro.md"
   ]
 }
